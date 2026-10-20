@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as below."
+title: "A retrodictive theory of the origin of the Moon: a secondary circumterrestrial disk redistributed by the retrograde flyby of a rocky planet"
+version: "V_1.0"
+doi: "10.5281/zenodo.23391968"
+license: "CC-BY-4.0"
+authors:
+  - family-names: "Debailleul"
+    given-names: "Michel"
+    orcid: "https://orcid.org/0009-0003-1222-1433"
