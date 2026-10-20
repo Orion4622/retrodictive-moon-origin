@@ -2,9 +2,15 @@
 
 **Une théorie rétrodictive : un disque circumterrestre secondaire remanié par le survol rétrograde d'une planète rocheuse**
 
-Michel Debailleul - géophysicien (M.Sc., Université libre de Bruxelles) - ORCID [0009-0003-1222-1433](https://orcid.org/0009-0003-1222-1433)
-Version V_1.0 (octobre 2026) - [DOI 10.5281/zenodo.23391968](https://doi.org/10.5281/zenodo.23391968) - licence CC BY 4.0
-English version: [README.md](README.md)
+- Michel Debailleul
+- Géophysicien
+- M.Sc - Université libre de Bruxelles
+- ORCID : 0009-0003-1222-1433
+- Version V_1.0 (octobre 2026)
+- [DOI 10.5281/zenodo.23391968]
+- (https://doi.org/10.5281/zenodo.23391968)
+- licence CC BY 4.0
+- English version: [README.md](README.md)
 
 ## La question
 La Lune est une donnée, et la question est rétrodictive : quels chemins physiques y conduisent, sans impact géant ?
