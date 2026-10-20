@@ -7,7 +7,7 @@
 - Université libre de Bruxelles
 - https://orcid.org/0009-0003-1222-1433
 
-Version V_1.0 (October 2026) - [DOI 10.5281/zenodo.23391968](https://doi.org/10.5281/zenodo.23391968) 
+- Version V_1.0 (October 2026) - [DOI 10.5281/zenodo.23391968](https://doi.org/10.5281/zenodo.23391968) 
 - licence CC BY 4.0
 - Version française : [README_FR.md](README_FR.md)
 
