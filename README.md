@@ -4,7 +4,7 @@
 
 Michel Debailleul - geophysicist (M.Sc., Université libre de Bruxelles) - ORCID [0009-0003-1222-1433](https://orcid.org/0009-0003-1222-1433)
 Version V_1.0 (October 2026) - [DOI 10.5281/zenodo.23391968](https://doi.org/10.5281/zenodo.23391968) - licence CC BY 4.0
-Version francaise : [README_FR.md](README_FR.md)
+Version française : [README_FR.md](README_FR.md)
 
 ## The question
 The Moon is a datum, and the question is retrodictive: which physical pathways lead to it without a giant impact?
@@ -14,8 +14,8 @@ A young, hot proto-Earth, soft but never liquid, flattened and inflated by a 6 h
 
 - About **47 %** of the disk stays bound to the Earth (14 % for a flyby in the sense of the rotation).
 - The bound material assembles into a body of about **one lunar mass** in every realization computed; it is kept in four realizations out of ten, when its orbit settles beyond the corotation radius.
-- Since planet B supplies no material, the Moon is made of terrestrial material: the Earth-Moon isotopic identity is expected from the outset.
-- The angular momentum budget closes at +/-0.05 L_EM in about a quarter to a third of the trajectories explored (+/-0.08 L_EM in two fifths to two thirds), under two conditions stated in the text: a weak early terrestrial tide and a slow contraction of the proto-Earth. These shares describe the parameter grid, not a probability.
+- Since planet B supplies no material, the Moon is made of terrestrial material: the Earth–Moon isotopic identity is expected from the outset.
+- The angular momentum budget closes at ±0.05 L_EM in about a quarter to a third of the trajectories explored (±0.08 L_EM in two fifths to two thirds), under two conditions stated in the text: a weak early terrestrial tide and a slow contraction of the proto-Earth. These shares describe the parameter grid, not a probability.
 
 ## What is stated as open
 The results are necessary conditions or families of solutions, not facts. The retention of the assembled body depends on the merging threshold; the iron sorting of the disk and the rate of such an encounter in an accreting system are not demonstrated. The limits are stated section by section.
