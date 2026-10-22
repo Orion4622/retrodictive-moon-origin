@@ -10,6 +10,7 @@
 - [DOI 10.5281/zenodo.23391968]
 - (https://doi.org/10.5281/zenodo.23391968)
 - licence CC BY 4.0
+- Préimpression : également disponible sur EarthArXiv (non évaluée par les pairs), https://doi.org/10.31223/X5T51Z
 - English version: [README.md](README.md)
 
 ## La question
